@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-family:'Courier New', Courier, monospace
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input{
+    align-items: center;
+}
+body{
+    text-align: center;
+    background : linear-Gradient(to right, red,yellow);
+    /* background-color: black; */
+}
